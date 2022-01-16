@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b91b65ef-8652-4eec-a588-597e161de5de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="324" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="23EknB7TTVZTIX3LvIp5XvBx0dy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labo9.Main" />
+      <module name="Examen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labo9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labo1.Main" />
+      <module name="Examen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labo9.Main" />
+      <module name="Examen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Labo7.Main" />
+      <module name="Examen" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Examen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labo8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labo8" />
+      <option name="MAIN_CLASS_NAME" value="Labo8.AnimalTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest.addAnimalOne" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Examen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labo8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labo8" />
+      <option name="MAIN_CLASS_NAME" value="Labo8.AnimalTest" />
+      <option name="METHOD_NAME" value="addAnimalOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalTest.findAnimal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Examen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Labo8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Labo8" />
+      <option name="MAIN_CLASS_NAME" value="Labo8.AnimalTest" />
+      <option name="METHOD_NAME" value="findAnimal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.AnimalTest" />
+        <item itemvalue="JUnit.AnimalTest.findAnimal" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b91b65ef-8652-4eec-a588-597e161de5de" name="Default Changelist" comment="" />
+      <created>1641306797830</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641306797830</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="229" key="#AnimalTest.addAnimalOne" timestamp="1642255430208">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="557" y="229" key="#AnimalTest.addAnimalOne/0.0.1920.1160@0.0.1920.1160" timestamp="1642255430208" />
+    <state x="552" y="237" key="#Project_Structure" timestamp="1642257473692">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="237" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1642257473692" />
+    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1642264807755">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1642264807755" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642338491747">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1642338491747" />
+    <state width="1877" height="323" key="GridCell.Tab.0.bottom" timestamp="1642347366638">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1642347366638" />
+    <state width="1877" height="323" key="GridCell.Tab.0.center" timestamp="1642347366637">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="323" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1642347366637" />
+    <state width="1877" height="323" key="GridCell.Tab.0.left" timestamp="1642347366637">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="323" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1642347366637" />
+    <state width="1877" height="323" key="GridCell.Tab.0.right" timestamp="1642347366637">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="323" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642347366637" />
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1641485765235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
+    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1641485765235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
+    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1641485765235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
+    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1641485765235">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
+    <state x="490" y="234" key="Maven.ArtifactSearchDialog" timestamp="1642257756465">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="490" y="234" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1642257756465" />
+    <state x="440" y="153" key="SettingsEditor" timestamp="1642342629096">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="440" y="153" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1642342629096" />
+    <state x="656" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1642337778630">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="656" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1642337778630" />
+    <state x="664" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1641413240801">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="664" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1641413240801" />
+    <state x="629" y="185" width="661" height="789" key="find.popup" timestamp="1642263558695">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="629" y="185" width="661" height="789" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1642263558695" />
+    <state x="342" y="274" key="new project wizard" timestamp="1642337974477">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="342" y="274" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1642337974477" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Examen$AnimalTest_addAnimalOne.ic" NAME="AnimalTest.addAnimalOne Coverage Results" MODIFIED="1642255459517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Labo8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Examen$AnimalTest_findAnimal.ic" NAME="AnimalTest.findAnimal Coverage Results" MODIFIED="1642255702729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Labo8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Examen$AnimalTest.ic" NAME="AnimalTest Coverage Results" MODIFIED="1642255734675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Labo8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Examen$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1642255352052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
