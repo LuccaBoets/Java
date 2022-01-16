@@ -40,8 +40,8 @@ public class StudentAOD {
             transaction = session.beginTransaction();
 
             Query<Student> query = session.createQuery("SELECT e FROM Student e", Student.class);
-
             return query.getResultList();
+
         } catch (HibernateException e) {
             if (transaction != null)
                 transaction.rollback();

@@ -9,7 +9,7 @@ public class Main {
 
         studentAOD.addStudent(student);
 
-        studentAOD.removeStudent(1);
+//        studentAOD.removeStudent(1);
 
         for (Student student1: studentAOD.getStudents()) {
             System.out.println(student1);

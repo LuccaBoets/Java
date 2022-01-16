@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f3d4356-8690-490a-a778-41a0307e069c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_15_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/DemoLes3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/data/bookStore.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/data/bookStore.mv.db.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/data/bookStore2.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/data/bookStore2.mv.db.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/data/employee.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/BookStoreApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/EmployeeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/database/BookDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/database/EmployeeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/model/CertificatetEmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/java/demo/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/resources/Employee.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/src/main/resources/hibernatebooks.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/Employee.hbm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/BookStoreApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/EmployeeApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/database/BookDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/database/EmployeeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/model/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/model/CertificatetEmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/demo/model/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DemoLes3/target/classes/hibernatebooks.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examen-vraag2-NAAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exam/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/exam/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/Examen-vraag3-NAAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/src/main/java/exam/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/src/main/java/exam/banking/BankApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/src/main/java/exam/banking/BankClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Examen-vraag3/src/main/java/exam/banking/ClientState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/.idea/libraries/org_hibernate_hibernate_core_5_6_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/Vraag1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/data/employee.mv.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/src/main/java/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/src/main/java/FilmAOD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/target/classes/Film.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/target/classes/FilmAOD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vraag1/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netflix_titles.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../~$orbeeld Examen.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/data/employee.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/data/employee.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/src/main/java/Labo9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/src/main/java/Labo9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/src/main/java/Labo9/StudentAOD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/src/main/java/Labo9/StudentAOD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/target/classes/Labo9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/target/classes/Labo9/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Examen/target/classes/Labo9/StudentAOD.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Examen/target/classes/Labo9/StudentAOD.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\boets\OneDrive\Documents\GitHub\Java\Voorbeeld Examen\Examen-vraag2\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23mnPFjiOqBEdEDvX821L8EfHkd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Vraag1" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Application" />
+      <module name="Examen-vraag2-NAAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f3d4356-8690-490a-a778-41a0307e069c" name="Default Changelist" comment="" />
+      <created>1642348103641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642348103641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1642354959937">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="288" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1642354959937" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642360569945">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1642360569945" />
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1642355617483">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1642355617483" />
+    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1642355617483">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1642355617483" />
+    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1642355617483">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1642355617483" />
+    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1642355617483">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="321" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642355617483" />
+    <state x="461" y="221" key="SettingsEditor" timestamp="1642360382957">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="461" y="221" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1642360382957" />
+    <state x="685" y="540" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1642360382309">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="685" y="540" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1642360382309" />
+  </component>
+</project>
