@@ -34,6 +34,7 @@ public class Animal {
         switch (type) {
             case CAT:
                 return "MEOW";
+
             case DOG:
                 return "BARK";
         }

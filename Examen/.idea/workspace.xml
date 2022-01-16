@@ -1,124 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b91b65ef-8652-4eec-a588-597e161de5de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__com_sun_xml_fastinfoset_FastInfoset_1_2_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_15_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_1_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/libraries/Maven__org_jvnet_staxex_stax_ex_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/DemoLes3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/data/bookStore.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/data/bookStore.mv.db.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/data/bookStore2.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/data/bookStore2.mv.db.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/data/employee.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/BookStoreApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/EmployeeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/database/BookDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/database/EmployeeDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/model/CertificatetEmpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/java/demo/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/resources/Employee.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/src/main/resources/hibernatebooks.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/Employee.hbm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/BookStoreApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/EmployeeApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/database/BookDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/database/EmployeeDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/model/CertificatetEmpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/demo/model/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DemoLes3/target/classes/hibernatebooks.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/Examen-vraag2-NAAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/src/main/java/exam/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/src/main/java/exam/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/target/classes/exam/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag2/target/classes/exam/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/Examen-vraag3-NAAM.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/src/main/java/exam/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/src/main/java/exam/banking/BankApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/src/main/java/exam/banking/BankClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Examen-vraag3/src/main/java/exam/banking/ClientState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Voorbeeld Examen.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/.idea/libraries/org_hibernate_hibernate_core_5_6_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/Vraag1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/data/employee.mv.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/src/main/java/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/src/main/java/FilmAOD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/target/classes/Film.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/target/classes/FilmAOD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/Vraag1/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/netflix_titles.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/~$orbeeld Examen.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/data/employee.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/employee.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Labo8/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labo8/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Labo9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labo9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Labo9/StudentAOD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labo9/StudentAOD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Labo9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Labo9/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Labo9/StudentAOD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Labo9/StudentAOD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,13 +39,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="23EknB7TTVZTIX3LvIp5XvBx0dy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -159,8 +58,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DemoLes3" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -248,6 +148,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (1)" />
@@ -269,6 +180,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -285,85 +197,11 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="557" y="229" key="#AnimalTest.addAnimalOne" timestamp="1642255430208">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="557" y="229" key="#AnimalTest.addAnimalOne/0.0.1920.1160@0.0.1920.1160" timestamp="1642255430208" />
-    <state x="552" y="237" key="#Project_Structure" timestamp="1642257473692">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="552" y="237" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1642257473692" />
-    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1642264807755">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="765" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1642264807755" />
-    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1642368369133">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1642368369133" />
-    <state width="1877" height="323" key="GridCell.Tab.0.bottom" timestamp="1642351011177">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1642351011177" />
-    <state width="1877" height="323" key="GridCell.Tab.0.center" timestamp="1642351011177">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="323" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1642351011177" />
-    <state width="1877" height="323" key="GridCell.Tab.0.left" timestamp="1642351011177">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="323" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1642351011177" />
-    <state width="1877" height="323" key="GridCell.Tab.0.right" timestamp="1642351011177">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="323" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1642351011177" />
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom" timestamp="1641485765235">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
-    <state width="1877" height="396" key="GridCell.Tab.1.center" timestamp="1641485765235">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
-    <state width="1877" height="396" key="GridCell.Tab.1.left" timestamp="1641485765235">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
-    <state width="1877" height="396" key="GridCell.Tab.1.right" timestamp="1641485765235">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state width="1877" height="396" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1641485765235" />
-    <state x="490" y="234" key="Maven.ArtifactSearchDialog" timestamp="1642257756465">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="490" y="234" key="Maven.ArtifactSearchDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1642257756465" />
-    <state x="440" y="153" key="SettingsEditor" timestamp="1642368497908">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="440" y="153" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1642368497908" />
-    <state x="656" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1642337778630">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="656" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1642337778630" />
-    <state x="664" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1642351008408">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="664" y="472" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1160@0.0.1920.1160" timestamp="1642351008408" />
-    <state x="629" y="185" width="661" height="789" key="find.popup" timestamp="1642263558695">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="629" y="185" width="661" height="789" key="find.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1642263558695" />
-    <state x="342" y="274" key="new project wizard" timestamp="1642337974477">
-      <screen x="0" y="0" width="1920" height="1160" />
-    </state>
-    <state x="342" y="274" key="new project wizard/0.0.1920.1160@0.0.1920.1160" timestamp="1642337974477" />
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Examen$AnimalTest_addAnimalOne.ic" NAME="AnimalTest.addAnimalOne Coverage Results" MODIFIED="1642255459517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Examen$AnimalTest_findAnimal.ic" NAME="AnimalTest.findAnimal Coverage Results" MODIFIED="1642255702729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Labo8.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Examen$AnimalTest_findAnimal.ic" NAME="AnimalTest.findAnimal Coverage Results" MODIFIED="1642255702729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Examen$AnimalTest_addAnimalOne.ic" NAME="AnimalTest.addAnimalOne Coverage Results" MODIFIED="1642255459517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Labo8.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Examen$AnimalTest.ic" NAME="AnimalTest Coverage Results" MODIFIED="1642255734675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -5,6 +5,7 @@ public class Main {
 
         StudentAOD studentAOD = new StudentAOD();
 
+
         Student student = new Student(1,"Lucca","gmail.com");
 
         studentAOD.addStudent(student);
