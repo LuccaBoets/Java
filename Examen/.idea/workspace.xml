@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b91b65ef-8652-4eec-a588-597e161de5de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Voorbeeld Examen/test/src/main/java/PersonTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/employee.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/data/employee.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Labo8/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labo8/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Labo9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Labo9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Labo9/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Labo9/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b91b65ef-8652-4eec-a588-597e161de5de" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
